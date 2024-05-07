@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand span{
+    color: green;
+    font-weight: 700;
+
+}
+div .content{
+    width: 100%;
+    height: 70vh;
+    margin-left: 1.875rem;
+    padding-top: 3.75rem;
+}
+div .content h1{
+    color: rgb(146, 141, 131);
+    font-size: 3.75rem;
+    opacity: .7;
+    font-weight: 700;
+    text-shadow:  .25rem -0.3125rem green;
+}
+div .content p{
+    color:  rgb(146, 141, 131) ;
+
+}
+footer.container{
+    width: 100%;
+    ;
+    
+    
+} 
+
